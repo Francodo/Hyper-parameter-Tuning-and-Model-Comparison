@@ -91,3 +91,10 @@ ROC-AUC is the most reliable single metric for fraud detection; accuracy is misl
 Ensemble methods (Random Forest, Gradient Boosting) outperform single estimators on this problem class
 class_weight='balanced' is a low-cost, high-impact intervention for imbalanced classification
 
+Related Work
+This notebook is part of a broader fraud detection and AI analytics project. Related repositories and notebooks explore:
+
+- Feature engineering for ATO (Account Takeover) detection
+- Rule-based risk scoring systems
+- Enterprise AI Observability Platform architecture
+
